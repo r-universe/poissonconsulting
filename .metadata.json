@@ -1,0 +1,78 @@
+[
+  {
+    "package": "checkr",
+    "oncran": true
+  },
+  {
+    "package": "chk",
+    "oncran": true
+  },
+  {
+    "package": "dbflobr",
+    "oncran": true
+  },
+  {
+    "package": "dttr2",
+    "oncran": true
+  },
+  {
+    "package": "err",
+    "oncran": true
+  },
+  {
+    "package": "extras",
+    "oncran": true
+  },
+  {
+    "package": "fishbc",
+    "oncran": true
+  },
+  {
+    "package": "flobr",
+    "oncran": true
+  },
+  {
+    "package": "klexdatr",
+    "oncran": true
+  },
+  {
+    "package": "mcmcderive",
+    "oncran": true
+  },
+  {
+    "package": "mcmcr",
+    "oncran": true
+  },
+  {
+    "package": "nlist",
+    "oncran": true
+  },
+  {
+    "package": "readwritesqlite",
+    "oncran": true
+  },
+  {
+    "package": "rpdo",
+    "oncran": true
+  },
+  {
+    "package": "rtide",
+    "oncran": true
+  },
+  {
+    "package": "term",
+    "oncran": true
+  },
+  {
+    "package": "universals",
+    "oncran": true
+  },
+  {
+    "package": "yesno",
+    "oncran": true
+  },
+  {
+    "package": "ypr",
+    "oncran": true
+  }
+]
