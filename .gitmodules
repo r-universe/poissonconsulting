@@ -98,3 +98,8 @@
 	url = https://github.com/poissonconsulting/ypr
 	shallow = true
 	registered = true
+[submodule "tidyplus"]
+	path = tidyplus
+	url = https://github.com/poissonconsulting/tidyplus
+	shallow = true
+	registered = false
