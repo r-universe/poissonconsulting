@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "dttr2",
-    "oncran": true
-  },
-  {
     "package": "err",
     "oncran": true
   },
@@ -37,10 +33,6 @@
   },
   {
     "package": "mcmcderive",
-    "oncran": true
-  },
-  {
-    "package": "mcmcr",
     "oncran": true
   },
   {

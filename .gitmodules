@@ -18,11 +18,6 @@
 	url = https://github.com/poissonconsulting/dbflobr
 	shallow = true
 	registered = true
-[submodule "dttr2"]
-	path = dttr2
-	url = https://github.com/poissonconsulting/dttr2
-	shallow = true
-	registered = true
 [submodule "err"]
 	path = err
 	url = https://github.com/poissonconsulting/err
@@ -51,11 +46,6 @@
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/poissonconsulting/mcmcderive
-	shallow = true
-	registered = true
-[submodule "mcmcr"]
-	path = mcmcr
-	url = https://github.com/poissonconsulting/mcmcr
 	shallow = true
 	registered = true
 [submodule "nlist"]
