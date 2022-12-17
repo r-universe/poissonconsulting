@@ -64,6 +64,10 @@
     "oncran": true
   },
   {
+    "package": "tidyplus",
+    "oncran": true
+  },
+  {
     "package": "universals",
     "oncran": true
   },

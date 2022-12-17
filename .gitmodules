@@ -83,6 +83,11 @@
 	url = https://github.com/poissonconsulting/term
 	shallow = true
 	registered = true
+[submodule "tidyplus"]
+	path = tidyplus
+	url = https://github.com/poissonconsulting/tidyplus
+	shallow = true
+	registered = true
 [submodule "universals"]
 	path = universals
 	url = https://github.com/poissonconsulting/universals
