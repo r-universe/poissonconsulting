@@ -26,6 +26,10 @@
 [submodule "bboutools"]
 	path = bboutools
 	url = https://github.com/poissonconsulting/bboutools
+[submodule "canwqdata"]
+	path = canwqdata
+	url = https://github.com/bcgov/canwqdata
+	registered = false
 [submodule "checkr"]
 	path = checkr
 	url = https://github.com/poissonconsulting/checkr
@@ -118,6 +122,10 @@
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
+[submodule "rems"]
+	path = rems
+	url = https://github.com/bcgov/rems
+	registered = false
 [submodule "rescale"]
 	path = rescale
 	url = https://github.com/poissonconsulting/rescale

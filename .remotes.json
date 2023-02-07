@@ -126,6 +126,12 @@
     "from": "bbousuite"
   },
   {
+    "package": "canwqdata",
+    "url": "https://github.com/bcgov/canwqdata",
+    "via": ["wqbc"],
+    "from": "wqbc"
+  },
+  {
     "package": "chk",
     "url": "https://github.com/poissonconsulting/chk",
     "via": ["fwatlasbc"],
@@ -334,6 +340,12 @@
     "url": "https://github.com/poissonconsulting/pgfeatureserv",
     "via": ["fwatlasbc", "fwapgr"],
     "from": "fwatlasbc"
+  },
+  {
+    "package": "rems",
+    "url": "https://github.com/bcgov/rems",
+    "via": ["wqbc"],
+    "from": "wqbc"
   },
   {
     "package": "rescale",
