@@ -1,26 +1,6 @@
 [
   {
-    "package": "dttr2",
-    "oncran": true
-  },
-  {
-    "package": "fishbc",
-    "oncran": true
-  },
-  {
-    "package": "dbflobr",
-    "oncran": true
-  },
-  {
-    "package": "err",
-    "oncran": true
-  },
-  {
-    "package": "universals",
-    "oncran": true
-  },
-  {
-    "package": "extras",
+    "package": "checkr",
     "oncran": true
   },
   {
@@ -28,15 +8,23 @@
     "oncran": true
   },
   {
-    "package": "readwritesqlite",
+    "package": "dbflobr",
     "oncran": true
   },
   {
-    "package": "nlist",
+    "package": "dttr2",
     "oncran": true
   },
   {
-    "package": "klexdatr",
+    "package": "err",
+    "oncran": true
+  },
+  {
+    "package": "extras",
+    "oncran": true
+  },
+  {
+    "package": "fishbc",
     "oncran": true
   },
   {
@@ -44,11 +32,43 @@
     "oncran": true
   },
   {
-    "package": "rtide",
+    "package": "klexdatr",
     "oncran": true
   },
   {
     "package": "mcmcderive",
+    "oncran": true
+  },
+  {
+    "package": "mcmcr",
+    "oncran": true
+  },
+  {
+    "package": "nlist",
+    "oncran": true
+  },
+  {
+    "package": "readwritesqlite",
+    "oncran": true
+  },
+  {
+    "package": "rpdo",
+    "oncran": true
+  },
+  {
+    "package": "rtide",
+    "oncran": true
+  },
+  {
+    "package": "term",
+    "oncran": true
+  },
+  {
+    "package": "tidyplus",
+    "oncran": true
+  },
+  {
+    "package": "universals",
     "oncran": true
   },
   {
@@ -57,26 +77,6 @@
   },
   {
     "package": "ypr",
-    "oncran": true
-  },
-  {
-    "package": "mcmcr",
-    "oncran": true
-  },
-  {
-    "package": "term",
-    "oncran": true
-  },
-  {
-    "package": "rpdo",
-    "oncran": true
-  },
-  {
-    "package": "checkr",
-    "oncran": true
-  },
-  {
-    "package": "tidyplus",
     "oncran": true
   }
 ]
