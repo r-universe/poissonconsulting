@@ -35,6 +35,10 @@
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip
+[submodule "colorscale"]
+	path = colorscale
+	url = https://github.com/dreamRs/colorscale
+	registered = false
 [submodule "curtisquadata"]
 	path = curtisquadata
 	url = https://github.com/poissonconsulting/curtisquadata

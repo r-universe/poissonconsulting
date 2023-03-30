@@ -132,6 +132,12 @@
     "from": "fwatlasbc"
   },
   {
+    "package": "colorscale",
+    "url": "https://github.com/dreamRs/colorscale",
+    "via": ["poispalette"],
+    "from": "poispalette"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
