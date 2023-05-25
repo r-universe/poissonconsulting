@@ -13,8 +13,3 @@
 	url = https://github.com/poissonconsulting/bauw
 	shallow = true
 	registered = true
-[submodule "chk"]
-	path = chk
-	url = https://github.com/poissonconsulting/chk
-	shallow = true
-	registered = false
