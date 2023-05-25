@@ -3,9 +3,69 @@
 	url = https://github.com/poissonconsulting/poissonconsulting.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "bauw"]
+	path = bauw
+	url = https://github.com/poissonconsulting/bauw
+	shallow = true
+	registered = true
+[submodule "checkr"]
+	path = checkr
+	url = https://github.com/poissonconsulting/checkr
+	shallow = true
+	registered = true
 [submodule "chk"]
 	path = chk
 	url = https://github.com/poissonconsulting/chk
+	shallow = true
+	registered = true
+[submodule "dbflobr"]
+	path = dbflobr
+	url = https://github.com/poissonconsulting/dbflobr
+	shallow = true
+	registered = true
+[submodule "dttr2"]
+	path = dttr2
+	url = https://github.com/poissonconsulting/dttr2
+	shallow = true
+	registered = true
+[submodule "err"]
+	path = err
+	url = https://github.com/poissonconsulting/err
+	shallow = true
+	registered = true
+[submodule "extras"]
+	path = extras
+	url = https://github.com/poissonconsulting/extras
+	shallow = true
+	registered = true
+[submodule "fishbc"]
+	path = fishbc
+	url = https://github.com/poissonconsulting/fishbc
+	shallow = true
+	registered = true
+[submodule "flobr"]
+	path = flobr
+	url = https://github.com/poissonconsulting/flobr
+	shallow = true
+	registered = true
+[submodule "hmstimer"]
+	path = hmstimer
+	url = https://github.com/poissonconsulting/hmstimer
+	shallow = true
+	registered = true
+[submodule "klexdatr"]
+	path = klexdatr
+	url = https://github.com/poissonconsulting/klexdatr
+	shallow = true
+	registered = true
+[submodule "mcmcderive"]
+	path = mcmcderive
+	url = https://github.com/poissonconsulting/mcmcderive
+	shallow = true
+	registered = true
+[submodule "mcmcr"]
+	path = mcmcr
+	url = https://github.com/poissonconsulting/mcmcr
 	shallow = true
 	registered = true
 [submodule "newdata"]
@@ -13,8 +73,58 @@
 	url = https://github.com/poissonconsulting/newdata
 	shallow = true
 	registered = true
-[submodule "bauw"]
-	path = bauw
-	url = https://github.com/poissonconsulting/bauw
+[submodule "nlist"]
+	path = nlist
+	url = https://github.com/poissonconsulting/nlist
+	shallow = true
+	registered = true
+[submodule "readwritesqlite"]
+	path = readwritesqlite
+	url = https://github.com/poissonconsulting/readwritesqlite
+	shallow = true
+	registered = true
+[submodule "rpdo"]
+	path = rpdo
+	url = https://github.com/poissonconsulting/rpdo
+	shallow = true
+	registered = true
+[submodule "rtide"]
+	path = rtide
+	url = https://github.com/poissonconsulting/rtide
+	shallow = true
+	registered = true
+[submodule "sims"]
+	path = sims
+	url = https://github.com/poissonconsulting/sims
+	shallow = true
+	registered = true
+[submodule "ssdtools"]
+	path = ssdtools
+	url = https://github.com/poissonconsulting/ssdtools
+	shallow = true
+	registered = true
+[submodule "term"]
+	path = term
+	url = https://github.com/poissonconsulting/term
+	shallow = true
+	registered = true
+[submodule "tidyplus"]
+	path = tidyplus
+	url = https://github.com/poissonconsulting/tidyplus
+	shallow = true
+	registered = true
+[submodule "universals"]
+	path = universals
+	url = https://github.com/poissonconsulting/universals
+	shallow = true
+	registered = true
+[submodule "yesno"]
+	path = yesno
+	url = https://github.com/poissonconsulting/yesno
+	shallow = true
+	registered = true
+[submodule "ypr"]
+	path = ypr
+	url = https://github.com/poissonconsulting/ypr
 	shallow = true
 	registered = true
