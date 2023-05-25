@@ -1,10 +1,10 @@
 {
-  "id": 37907046,
-  "created_at": "2023-05-25T13:52:00.000Z",
+  "id": 37909431,
+  "created_at": "2023-05-25T14:55:31.000Z",
   "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["chk"]
+  "repositories": ["bauw", "jmbr", "mbr", "newdata", "poissonconsulting.r-universe.dev", "smbr", "tmbr"]
 }
