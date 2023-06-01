@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["bauw", "jmbr", "mbr", "newdata", "poissonconsulting.r-universe.dev", "smbr", "tmbr"]
+  "repositories": ["bauw", "embr", "jmbr", "newdata", "poissonconsulting.r-universe.dev", "smbr", "tmbr"]
 }
