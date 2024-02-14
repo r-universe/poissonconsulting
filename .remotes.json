@@ -132,6 +132,12 @@
     "from": "wqbc"
   },
   {
+    "package": "canwqdata",
+    "url": "https://github.com/bcgov/canwqdata",
+    "via": ["wqindex", "wqbc"],
+    "from": "wqindex"
+  },
+  {
     "package": "chk",
     "url": "https://github.com/poissonconsulting/chk",
     "via": ["fwatlasbc"],
@@ -354,6 +360,12 @@
     "from": "wqbc"
   },
   {
+    "package": "rems",
+    "url": "https://github.com/bcgov/rems",
+    "via": ["wqindex", "wqbc"],
+    "from": "wqindex"
+  },
+  {
     "package": "rescale",
     "url": "https://github.com/poissonconsulting/rescale",
     "via": ["bboudata", "bbousims", "bboutools"],
@@ -455,6 +467,12 @@
     "url": "https://github.com/poissonconsulting/timer",
     "via": ["tmbr", "embr", "jmbr"],
     "from": "tmbr"
+  },
+  {
+    "package": "wqbc",
+    "url": "https://github.com/bcgov/wqbc",
+    "via": ["wqindex"],
+    "from": "wqindex"
   },
   {
     "package": "wqbench",
