@@ -314,6 +314,12 @@
   {
     "package": "pgfeatureserv",
     "url": "https://github.com/poissonconsulting/pgfeatureserv",
+    "via": ["fwapgr"],
+    "from": "fwapgr"
+  },
+  {
+    "package": "pgfeatureserv",
+    "url": "https://github.com/poissonconsulting/pgfeatureserv",
     "via": ["fwatlasbc", "fwapgr"],
     "from": "fwatlasbc"
   },
