@@ -32,6 +32,10 @@
 [submodule "chk"]
 	path = chk
 	url = https://github.com/poissonconsulting/chk
+[submodule "chktemplate"]
+	path = chktemplate
+	url = https://github.com/poissonconsulting/chktemplate
+	registered = false
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip
