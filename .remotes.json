@@ -144,6 +144,12 @@
     "from": "shinywqbench"
   },
   {
+    "package": "chktemplate",
+    "url": "https://github.com/poissonconsulting/chktemplate",
+    "via": ["wqbench"],
+    "from": "wqbench"
+  },
+  {
     "package": "colorscale",
     "url": "https://github.com/dreamRs/colorscale",
     "via": ["poispalette"],
@@ -421,6 +427,12 @@
     "from": "ssdtests"
   },
   {
+    "package": "ssdtools",
+    "url": "https://github.com/bcgov/ssdtools",
+    "via": ["wqbench"],
+    "from": "wqbench"
+  },
+  {
     "package": "timer",
     "url": "https://github.com/poissonconsulting/timer",
     "via": ["embr", "jmbr"],
@@ -455,5 +467,11 @@
     "url": "https://github.com/bcgov/wqbenchdata",
     "via": ["shinywqbench", "wqbench"],
     "from": "shinywqbench"
+  },
+  {
+    "package": "wqbenchdata",
+    "url": "https://github.com/bcgov/wqbenchdata",
+    "via": ["wqbench"],
+    "from": "wqbench"
   }
 ]
