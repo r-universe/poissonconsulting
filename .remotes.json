@@ -24,6 +24,18 @@
     "from": "tmbr"
   },
   {
+    "package": "bbousims",
+    "url": "https://github.com/poissonconsulting/bbousims",
+    "via": ["bboudata"],
+    "from": "bboudata"
+  },
+  {
+    "package": "bboutools",
+    "url": "https://github.com/poissonconsulting/bboutools",
+    "via": ["bboudata", "bbousims"],
+    "from": "bboudata"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
@@ -134,6 +146,12 @@
   {
     "package": "newdata",
     "url": "https://github.com/poissonconsulting/newdata",
+    "via": ["bboudata", "bbousims", "bboutools"],
+    "from": "bboudata"
+  },
+  {
+    "package": "newdata",
+    "url": "https://github.com/poissonconsulting/newdata",
     "via": ["embr"],
     "from": "embr"
   },
@@ -160,6 +178,12 @@
     "url": "https://github.com/poissonconsulting/newdata",
     "via": ["tmbr", "embr"],
     "from": "tmbr"
+  },
+  {
+    "package": "rescale",
+    "url": "https://github.com/poissonconsulting/rescale",
+    "via": ["bboudata", "bbousims", "bboutools"],
+    "from": "bboudata"
   },
   {
     "package": "rescale",
