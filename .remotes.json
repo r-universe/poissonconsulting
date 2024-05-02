@@ -32,6 +32,12 @@
   {
     "package": "bboudata",
     "url": "https://github.com/poissonconsulting/bboudata",
+    "via": ["bboushiny"],
+    "from": "bboushiny"
+  },
+  {
+    "package": "bboudata",
+    "url": "https://github.com/poissonconsulting/bboudata",
     "via": ["bbousims", "bboutools"],
     "from": "bbousims"
   },
@@ -74,6 +80,12 @@
   {
     "package": "bbousims",
     "url": "https://github.com/poissonconsulting/bbousims",
+    "via": ["bboushiny", "bboudata"],
+    "from": "bboushiny"
+  },
+  {
+    "package": "bbousims",
+    "url": "https://github.com/poissonconsulting/bbousims",
     "via": ["bbousuite", "bboudata"],
     "from": "bbousuite"
   },
@@ -94,6 +106,12 @@
     "url": "https://github.com/poissonconsulting/bboutools",
     "via": ["bbouretro", "bboudata", "bbousims"],
     "from": "bbouretro"
+  },
+  {
+    "package": "bboutools",
+    "url": "https://github.com/poissonconsulting/bboutools",
+    "via": ["bboushiny", "bboudata", "bbousims"],
+    "from": "bboushiny"
   },
   {
     "package": "bboutools",
@@ -230,6 +248,12 @@
   {
     "package": "newdata",
     "url": "https://github.com/poissonconsulting/newdata",
+    "via": ["bboushiny", "bboudata", "bbousims", "bboutools"],
+    "from": "bboushiny"
+  },
+  {
+    "package": "newdata",
+    "url": "https://github.com/poissonconsulting/newdata",
     "via": ["bbousims", "bboutools"],
     "from": "bbousims"
   },
@@ -286,6 +310,12 @@
     "url": "https://github.com/poissonconsulting/rescale",
     "via": ["bbouretro", "bboudata", "bbousims", "bboutools"],
     "from": "bbouretro"
+  },
+  {
+    "package": "rescale",
+    "url": "https://github.com/poissonconsulting/rescale",
+    "via": ["bboushiny", "bboudata", "bbousims", "bboutools"],
+    "from": "bboushiny"
   },
   {
     "package": "rescale",
