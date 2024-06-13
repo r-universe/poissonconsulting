@@ -126,6 +126,12 @@
     "from": "bbousuite"
   },
   {
+    "package": "chk",
+    "url": "https://github.com/poissonconsulting/chk",
+    "via": ["fwatlasbc"],
+    "from": "fwatlasbc"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
@@ -142,6 +148,12 @@
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["tmbr"],
     "from": "tmbr"
+  },
+  {
+    "package": "fwapgr",
+    "url": "https://github.com/poissonconsulting/fwapgr",
+    "via": ["fwatlasbc"],
+    "from": "fwatlasbc"
   },
   {
     "package": "jmbr",
@@ -298,6 +310,12 @@
     "url": "https://github.com/poissonconsulting/newdata",
     "via": ["tmbr", "embr"],
     "from": "tmbr"
+  },
+  {
+    "package": "pgfeatureserv",
+    "url": "https://github.com/poissonconsulting/pgfeatureserv",
+    "via": ["fwatlasbc", "fwapgr"],
+    "from": "fwatlasbc"
   },
   {
     "package": "rescale",
