@@ -1,8 +1,56 @@
 [
   {
+    "package": "bauw",
+    "url": "https://github.com/poissonconsulting/bauw",
+    "via": ["embr", "jmbr"],
+    "from": "embr"
+  },
+  {
+    "package": "jmbr",
+    "url": "https://github.com/poissonconsulting/jmbr",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
+    "package": "mcmcdata",
+    "url": "https://github.com/poissonconsulting/mcmcdata",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
+    "package": "mcmcderive",
+    "url": "https://github.com/poissonconsulting/mcmcderive",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
+    "package": "mcmcr",
+    "url": "https://github.com/poissonconsulting/mcmcr",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
+    "package": "newdata",
+    "url": "https://github.com/poissonconsulting/newdata",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
     "package": "newdata",
     "url": "https://github.com/poissonconsulting/newdata",
     "via": ["rescale"],
     "from": "rescale"
+  },
+  {
+    "package": "rescale",
+    "url": "https://github.com/poissonconsulting/rescale",
+    "via": ["embr"],
+    "from": "embr"
+  },
+  {
+    "package": "timer",
+    "url": "https://github.com/poissonconsulting/timer",
+    "via": ["embr", "jmbr"],
+    "from": "embr"
   }
 ]
