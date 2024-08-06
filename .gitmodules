@@ -11,6 +11,9 @@
 [submodule "chk"]
 	path = chk
 	url = https://github.com/poissonconsulting/chk
+[submodule "codegrip"]
+	path = codegrip
+	url = https://github.com/lionel-/codegrip
 [submodule "dbflobr"]
 	path = dbflobr
 	url = https://github.com/poissonconsulting/dbflobr
