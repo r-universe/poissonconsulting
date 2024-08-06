@@ -50,6 +50,9 @@
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
+[submodule "rescale"]
+	path = rescale
+	url = https://github.com/poissonconsulting/rescale
 [submodule "rpdo"]
 	path = rpdo
 	url = https://github.com/poissonconsulting/rpdo
