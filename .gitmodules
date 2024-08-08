@@ -20,6 +20,9 @@
 [submodule "dttr2"]
 	path = dttr2
 	url = https://github.com/poissonconsulting/dttr2
+[submodule "embr"]
+	path = embr
+	url = https://github.com/poissonconsulting/embr
 [submodule "err"]
 	path = err
 	url = https://github.com/poissonconsulting/err
@@ -29,15 +32,24 @@
 [submodule "fishbc"]
 	path = fishbc
 	url = https://github.com/poissonconsulting/fishbc
+[submodule "fledge"]
+	path = fledge
+	url = https://github.com/cynkra/fledge
 [submodule "flobr"]
 	path = flobr
 	url = https://github.com/poissonconsulting/flobr
 [submodule "hmstimer"]
 	path = hmstimer
 	url = https://github.com/poissonconsulting/hmstimer
+[submodule "jmbr"]
+	path = jmbr
+	url = https://github.com/poissonconsulting/jmbr
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/poissonconsulting/klexdatr
+[submodule "mcmcdata"]
+	path = mcmcdata
+	url = https://github.com/poissonconsulting/mcmcdata
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/poissonconsulting/mcmcderive
@@ -50,6 +62,9 @@
 [submodule "nlist"]
 	path = nlist
 	url = https://github.com/poissonconsulting/nlist
+[submodule "nmbr"]
+	path = nmbr
+	url = https://github.com/poissonconsulting/nmbr
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
@@ -65,6 +80,9 @@
 [submodule "sims"]
 	path = sims
 	url = https://github.com/poissonconsulting/sims
+[submodule "smbr"]
+	path = smbr
+	url = https://github.com/poissonconsulting/smbr
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/poissonconsulting/ssdtools
@@ -74,6 +92,12 @@
 [submodule "tidyplus"]
 	path = tidyplus
 	url = https://github.com/poissonconsulting/tidyplus
+[submodule "timer"]
+	path = timer
+	url = https://github.com/poissonconsulting/timer
+[submodule "tmbr"]
+	path = tmbr
+	url = https://github.com/poissonconsulting/tmbr
 [submodule "universals"]
 	path = universals
 	url = https://github.com/poissonconsulting/universals
