@@ -47,6 +47,9 @@
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/poissonconsulting/klexdatr
+[submodule "klippy"]
+	path = klippy
+	url = https://github.com/rlesur/klippy
 [submodule "mcmcdata"]
 	path = mcmcdata
 	url = https://github.com/poissonconsulting/mcmcdata
