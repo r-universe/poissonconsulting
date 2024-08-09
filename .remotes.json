@@ -248,7 +248,7 @@
   {
     "package": "timer",
     "url": "https://github.com/poissonconsulting/timer",
-    "via": ["nmbr"],
+    "via": ["nmbr", "embr", "jmbr"],
     "from": "nmbr"
   },
   {
