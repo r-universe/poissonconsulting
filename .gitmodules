@@ -65,9 +65,6 @@
 [submodule "nlist"]
 	path = nlist
 	url = https://github.com/poissonconsulting/nlist
-[submodule "nmbr"]
-	path = nmbr
-	url = https://github.com/poissonconsulting/nmbr
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
