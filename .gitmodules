@@ -83,6 +83,9 @@
 [submodule "smbr"]
 	path = smbr
 	url = https://github.com/poissonconsulting/smbr
+[submodule "ssdtests"]
+	path = ssdtests
+	url = https://github.com/poissonconsulting/ssdtests
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/poissonconsulting/ssdtools
