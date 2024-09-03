@@ -30,6 +30,24 @@
     "from": "bbouretro"
   },
   {
+    "package": "bboudata",
+    "url": "https://github.com/poissonconsulting/bboudata",
+    "via": ["bbousuite"],
+    "from": "bbousuite"
+  },
+  {
+    "package": "bbouretro",
+    "url": "https://github.com/poissonconsulting/bbouretro",
+    "via": ["bbousuite"],
+    "from": "bbousuite"
+  },
+  {
+    "package": "bboushiny",
+    "url": "https://github.com/poissonconsulting/bboushiny",
+    "via": ["bbousuite"],
+    "from": "bbousuite"
+  },
+  {
     "package": "bbousims",
     "url": "https://github.com/poissonconsulting/bbousims",
     "via": ["bboudata"],
@@ -42,6 +60,12 @@
     "from": "bbouretro"
   },
   {
+    "package": "bbousims",
+    "url": "https://github.com/poissonconsulting/bbousims",
+    "via": ["bbousuite", "bboudata"],
+    "from": "bbousuite"
+  },
+  {
     "package": "bboutools",
     "url": "https://github.com/poissonconsulting/bboutools",
     "via": ["bboudata", "bbousims"],
@@ -52,6 +76,12 @@
     "url": "https://github.com/poissonconsulting/bboutools",
     "via": ["bbouretro", "bboudata", "bbousims"],
     "from": "bbouretro"
+  },
+  {
+    "package": "bboutools",
+    "url": "https://github.com/poissonconsulting/bboutools",
+    "via": ["bbousuite", "bboudata", "bbousims"],
+    "from": "bbousuite"
   },
   {
     "package": "embr",
@@ -176,6 +206,12 @@
   {
     "package": "newdata",
     "url": "https://github.com/poissonconsulting/newdata",
+    "via": ["bbousuite", "bboudata", "bbousims", "bboutools"],
+    "from": "bbousuite"
+  },
+  {
+    "package": "newdata",
+    "url": "https://github.com/poissonconsulting/newdata",
     "via": ["embr"],
     "from": "embr"
   },
@@ -214,6 +250,12 @@
     "url": "https://github.com/poissonconsulting/rescale",
     "via": ["bbouretro", "bboudata", "bbousims", "bboutools"],
     "from": "bbouretro"
+  },
+  {
+    "package": "rescale",
+    "url": "https://github.com/poissonconsulting/rescale",
+    "via": ["bbousuite", "bboudata", "bbousims", "bboutools"],
+    "from": "bbousuite"
   },
   {
     "package": "rescale",
