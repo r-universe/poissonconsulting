@@ -390,6 +390,13 @@
     "from": "tmbr"
   },
   {
+    "package": "ssdtools",
+    "url": "https://github.com/poissonconsulting/ssdtools",
+    "via": ["ssdtests"],
+    "branch": "dev",
+    "from": "ssdtests"
+  },
+  {
     "package": "timer",
     "url": "https://github.com/poissonconsulting/timer",
     "via": ["embr", "jmbr"],
