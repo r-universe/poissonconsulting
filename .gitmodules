@@ -2,9 +2,30 @@
 	path = .registry
 	url = https://github.com/poissonconsulting/poissonconsulting.r-universe.dev
 	branch = HEAD
+[submodule "batchr"]
+	path = batchr
+	url = https://github.com/poissonconsulting/batchr
 [submodule "bauw"]
 	path = bauw
 	url = https://github.com/poissonconsulting/bauw
+[submodule "bboudata"]
+	path = bboudata
+	url = https://github.com/poissonconsulting/bboudata
+[submodule "bbouretro"]
+	path = bbouretro
+	url = https://github.com/poissonconsulting/bbouretro
+[submodule "bboushiny"]
+	path = bboushiny
+	url = https://github.com/poissonconsulting/bboushiny
+[submodule "bbousims"]
+	path = bbousims
+	url = https://github.com/poissonconsulting/bbousims
+[submodule "bbousuite"]
+	path = bbousuite
+	url = https://github.com/poissonconsulting/bbousuite
+[submodule "bboutools"]
+	path = bboutools
+	url = https://github.com/poissonconsulting/bboutools
 [submodule "checkr"]
 	path = checkr
 	url = https://github.com/poissonconsulting/checkr
@@ -14,6 +35,9 @@
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip
+[submodule "curtisquadata"]
+	path = curtisquadata
+	url = https://github.com/poissonconsulting/curtisquadata
 [submodule "dbflobr"]
 	path = dbflobr
 	url = https://github.com/poissonconsulting/dbflobr
@@ -38,6 +62,15 @@
 [submodule "flobr"]
 	path = flobr
 	url = https://github.com/poissonconsulting/flobr
+[submodule "fwapgr"]
+	path = fwapgr
+	url = https://github.com/poissonconsulting/fwapgr
+[submodule "fwatlasbc"]
+	path = fwatlasbc
+	url = https://github.com/poissonconsulting/fwatlasbc
+[submodule "gsdd"]
+	path = gsdd
+	url = https://github.com/poissonconsulting/gsdd
 [submodule "hmstimer"]
 	path = hmstimer
 	url = https://github.com/poissonconsulting/hmstimer
@@ -50,6 +83,9 @@
 [submodule "klippy"]
 	path = klippy
 	url = https://github.com/rlesur/klippy
+[submodule "kootlake"]
+	path = kootlake
+	url = https://github.com/poissonconsulting/kootlake
 [submodule "mcmcdata"]
 	path = mcmcdata
 	url = https://github.com/poissonconsulting/mcmcdata
@@ -65,6 +101,12 @@
 [submodule "nlist"]
 	path = nlist
 	url = https://github.com/poissonconsulting/nlist
+[submodule "pgfeatureserv"]
+	path = pgfeatureserv
+	url = https://github.com/poissonconsulting/pgfeatureserv
+[submodule "poispalette"]
+	path = poispalette
+	url = https://github.com/poissonconsulting/poispalette
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
@@ -77,12 +119,33 @@
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/poissonconsulting/rtide
+[submodule "sglekwy"]
+	path = sglekwy
+	url = https://github.com/poissonconsulting/sglekwy
+[submodule "shinyssdtools"]
+	path = shinyssdtools
+	url = https://github.com/poissonconsulting/shinyssdtools
+[submodule "shinywqbench"]
+	path = shinywqbench
+	url = https://github.com/poissonconsulting/shinywqbench
+[submodule "shinywqg"]
+	path = shinywqg
+	url = https://github.com/poissonconsulting/shinywqg
+[submodule "shinyypr"]
+	path = shinyypr
+	url = https://github.com/poissonconsulting/shinyypr
 [submodule "sims"]
 	path = sims
 	url = https://github.com/poissonconsulting/sims
 [submodule "smbr"]
 	path = smbr
 	url = https://github.com/poissonconsulting/smbr
+[submodule "ssddata"]
+	path = ssddata
+	url = https://github.com/open-AIMS/ssddata
+[submodule "ssdtests"]
+	path = ssdtests
+	url = https://github.com/poissonconsulting/ssdtests
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/poissonconsulting/ssdtools
@@ -101,6 +164,18 @@
 [submodule "universals"]
 	path = universals
 	url = https://github.com/poissonconsulting/universals
+[submodule "wqbc"]
+	path = wqbc
+	url = https://github.com/poissonconsulting/wqbc
+[submodule "wqbench"]
+	path = wqbench
+	url = https://github.com/poissonconsulting/wqbench
+[submodule "wqbenchdata"]
+	path = wqbenchdata
+	url = https://github.com/poissonconsulting/wqbenchdata
+[submodule "wqindex"]
+	path = wqindex
+	url = https://github.com/poissonconsulting/wqindex
 [submodule "yesno"]
 	path = yesno
 	url = https://github.com/poissonconsulting/yesno
