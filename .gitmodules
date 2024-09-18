@@ -26,12 +26,6 @@
 [submodule "bboutools"]
 	path = bboutools
 	url = https://github.com/poissonconsulting/bboutools
-[submodule "bisonpicsuite"]
-	path = bisonpicsuite
-	url = https://github.com/poissonconsulting/bisonpicsuite
-[submodule "bisonpictools"]
-	path = bisonpictools
-	url = https://github.com/poissonconsulting/bisonpictools
 [submodule "canwqdata"]
 	path = canwqdata
 	url = https://github.com/bcgov/canwqdata
@@ -141,15 +135,9 @@
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/poissonconsulting/rtide
-[submodule "runbisonpic"]
-	path = runbisonpic
-	url = https://github.com/poissonconsulting/runbisonpic
 [submodule "sglekwy"]
 	path = sglekwy
 	url = https://github.com/poissonconsulting/sglekwy
-[submodule "shinybisonpic"]
-	path = shinybisonpic
-	url = https://github.com/poissonconsulting/shinybisonpic
 [submodule "shinyssdtools"]
 	path = shinyssdtools
 	url = https://github.com/poissonconsulting/shinyssdtools
