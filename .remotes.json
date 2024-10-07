@@ -180,6 +180,12 @@
     "from": "tmbr"
   },
   {
+    "package": "err",
+    "url": "https://github.com/poissonconsulting/err",
+    "via": ["checkr"],
+    "from": "checkr"
+  },
+  {
     "package": "fwapgr",
     "url": "https://github.com/poissonconsulting/fwapgr",
     "via": ["fwatlasbc"],
