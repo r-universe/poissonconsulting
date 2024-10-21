@@ -156,6 +156,12 @@
     "from": "poispalette"
   },
   {
+    "package": "crancache",
+    "url": "https://github.com/r-lib/crancache",
+    "via": ["revdepcheck"],
+    "from": "revdepcheck"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
@@ -352,6 +358,12 @@
     "url": "https://github.com/poissonconsulting/pgfeatureserv",
     "via": ["fwatlasbc", "fwapgr"],
     "from": "fwatlasbc"
+  },
+  {
+    "package": "remotes",
+    "url": "https://github.com/r-lib/remotes",
+    "via": ["revdepcheck"],
+    "from": "revdepcheck"
   },
   {
     "package": "rems",
