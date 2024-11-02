@@ -138,12 +138,6 @@
     "from": "wqindex"
   },
   {
-    "package": "chk",
-    "url": "https://github.com/poissonconsulting/chk",
-    "via": ["fwatlasbc"],
-    "from": "fwatlasbc"
-  },
-  {
     "package": "chktemplate",
     "url": "https://github.com/poissonconsulting/chktemplate",
     "via": ["shinywqbench", "wqbench"],
