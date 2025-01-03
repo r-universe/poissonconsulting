@@ -119,6 +119,9 @@
 [submodule "poispalette"]
 	path = poispalette
 	url = https://github.com/poissonconsulting/poispalette
+[submodule "poissontemplate"]
+	path = poissontemplate
+	url = https://github.com/poissonconsulting/poissontemplate
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
