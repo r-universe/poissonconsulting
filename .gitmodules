@@ -132,6 +132,9 @@
 [submodule "rescale"]
 	path = rescale
 	url = https://github.com/poissonconsulting/rescale
+[submodule "revdepcheck"]
+	path = revdepcheck
+	url = https://github.com/r-lib/revdepcheck
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/r-lib/roxygen2
