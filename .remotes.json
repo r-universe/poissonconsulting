@@ -150,6 +150,12 @@
     "from": "wqbench"
   },
   {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["shinywqg"],
+    "from": "shinywqg"
+  },
+  {
     "package": "colorscale",
     "url": "https://github.com/dreamRs/colorscale",
     "via": ["poispalette"],
