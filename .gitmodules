@@ -54,6 +54,10 @@
 [submodule "curtisquadata"]
 	path = curtisquadata
 	url = https://github.com/poissonconsulting/curtisquadata
+[submodule "daff"]
+	path = daff
+	url = https://github.com/edwindj/daff
+	registered = false
 [submodule "dbflobr"]
 	path = dbflobr
 	url = https://github.com/poissonconsulting/dbflobr

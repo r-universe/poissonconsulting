@@ -162,6 +162,12 @@
     "from": "revdepcheck"
   },
   {
+    "package": "daff",
+    "url": "https://github.com/edwindj/daff",
+    "via": ["subfoldr2"],
+    "from": "subfoldr2"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
@@ -358,6 +364,12 @@
     "url": "https://github.com/poissonconsulting/pgfeatureserv",
     "via": ["fwatlasbc", "fwapgr"],
     "from": "fwatlasbc"
+  },
+  {
+    "package": "readwritesqlite",
+    "url": "https://github.com/poissonconsulting/readwritesqlite",
+    "via": ["subfoldr2"],
+    "from": "subfoldr2"
   },
   {
     "package": "remotes",
