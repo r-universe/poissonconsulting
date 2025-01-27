@@ -197,6 +197,9 @@
 [submodule "universals"]
 	path = universals
 	url = https://github.com/poissonconsulting/universals
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
 [submodule "wqbc"]
 	path = wqbc
 	url = https://github.com/poissonconsulting/wqbc
