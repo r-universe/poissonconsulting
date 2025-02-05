@@ -182,6 +182,9 @@
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/poissonconsulting/ssdtools
+[submodule "subfoldr2"]
+	path = subfoldr2
+	url = https://github.com/poissonconsulting/subfoldr2
 [submodule "term"]
 	path = term
 	url = https://github.com/poissonconsulting/term
