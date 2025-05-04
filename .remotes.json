@@ -302,7 +302,7 @@
   {
     "package": "newdata",
     "url": "https://github.com/poissonconsulting/newdata",
-    "via": ["bboutools"],
+    "via": ["bboutools", "bboudata", "bbousims"],
     "from": "bboutools"
   },
   {
@@ -398,7 +398,7 @@
   {
     "package": "rescale",
     "url": "https://github.com/poissonconsulting/rescale",
-    "via": ["bboutools"],
+    "via": ["bboutools", "bboudata", "bbousims"],
     "from": "bboutools"
   },
   {
