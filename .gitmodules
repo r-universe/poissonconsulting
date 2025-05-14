@@ -71,6 +71,10 @@
 [submodule "embr"]
 	path = embr
 	url = https://github.com/poissonconsulting/embr
+[submodule "envirotox"]
+	path = envirotox
+	url = https://github.com/poissonconsulting/envirotox
+	registered = false
 [submodule "err"]
 	path = err
 	url = https://github.com/poissonconsulting/err

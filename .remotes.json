@@ -192,6 +192,12 @@
     "from": "tmbr"
   },
   {
+    "package": "envirotox",
+    "url": "https://github.com/poissonconsulting/envirotox",
+    "via": ["ssdtests"],
+    "from": "ssdtests"
+  },
+  {
     "package": "err",
     "url": "https://github.com/poissonconsulting/err",
     "via": ["checkr"],
