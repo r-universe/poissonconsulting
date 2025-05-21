@@ -160,9 +160,6 @@
 [submodule "rpdo"]
 	path = rpdo
 	url = https://github.com/poissonconsulting/rpdo
-[submodule "rrtools"]
-	path = rrtools
-	url = https://github.com/benmarwick/rrtools
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/poissonconsulting/rtide
