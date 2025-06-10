@@ -156,12 +156,6 @@
     "from": "shinywqg"
   },
   {
-    "package": "colorscale",
-    "url": "https://github.com/dreamRs/colorscale",
-    "via": ["poispalette"],
-    "from": "poispalette"
-  },
-  {
     "package": "crancache",
     "url": "https://github.com/r-lib/crancache",
     "via": ["revdepcheck"],

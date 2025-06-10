@@ -47,10 +47,6 @@
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip
-[submodule "colorscale"]
-	path = colorscale
-	url = https://github.com/dreamRs/colorscale
-	registered = false
 [submodule "crancache"]
 	path = crancache
 	url = https://github.com/r-lib/crancache
