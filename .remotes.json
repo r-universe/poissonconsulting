@@ -168,10 +168,22 @@
     "from": "subfoldr2"
   },
   {
+    "package": "daff",
+    "url": "https://github.com/edwindj/daff",
+    "via": ["subreport", "subfoldr2"],
+    "from": "subreport"
+  },
+  {
     "package": "dbflobr",
     "url": "https://github.com/poissonconsulting/dbflobr",
     "via": ["subfoldr2"],
     "from": "subfoldr2"
+  },
+  {
+    "package": "dbflobr",
+    "url": "https://github.com/poissonconsulting/dbflobr",
+    "via": ["subreport", "subfoldr2"],
+    "from": "subreport"
   },
   {
     "package": "embr",
@@ -214,6 +226,12 @@
     "url": "https://github.com/poissonconsulting/flobr",
     "via": ["subfoldr2"],
     "from": "subfoldr2"
+  },
+  {
+    "package": "flobr",
+    "url": "https://github.com/poissonconsulting/flobr",
+    "via": ["subreport", "subfoldr2"],
+    "from": "subreport"
   },
   {
     "package": "fwapgr",
@@ -396,6 +414,12 @@
     "from": "subfoldr2"
   },
   {
+    "package": "readwritesqlite",
+    "url": "https://github.com/poissonconsulting/readwritesqlite",
+    "via": ["subreport", "subfoldr2"],
+    "from": "subreport"
+  },
+  {
     "package": "remotes",
     "url": "https://github.com/r-lib/remotes",
     "via": ["revdepcheck"],
@@ -528,6 +552,12 @@
     "url": "https://github.com/poissonconsulting/ssdvignettes",
     "via": ["ssdsuite"],
     "from": "ssdsuite"
+  },
+  {
+    "package": "subfoldr2",
+    "url": "https://github.com/poissonconsulting/subfoldr2",
+    "via": ["subreport"],
+    "from": "subreport"
   },
   {
     "package": "timer",
