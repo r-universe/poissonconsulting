@@ -183,6 +183,12 @@
 [submodule "ssddata"]
 	path = ssddata
 	url = https://github.com/open-AIMS/ssddata
+[submodule "ssdsims"]
+	path = ssdsims
+	url = https://github.com/poissonconsulting/ssdsims
+[submodule "ssdsuite"]
+	path = ssdsuite
+	url = https://github.com/poissonconsulting/ssdsuite
 [submodule "ssdtests"]
 	path = ssdtests
 	url = https://github.com/poissonconsulting/ssdtests
