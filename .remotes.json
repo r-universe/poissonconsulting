@@ -168,6 +168,12 @@
     "from": "subfoldr2"
   },
   {
+    "package": "dbflobr",
+    "url": "https://github.com/poissonconsulting/dbflobr",
+    "via": ["subfoldr2"],
+    "from": "subfoldr2"
+  },
+  {
     "package": "embr",
     "url": "https://github.com/poissonconsulting/embr",
     "via": ["jmbr"],
@@ -202,6 +208,12 @@
     "url": "https://github.com/poissonconsulting/err",
     "via": ["checkr"],
     "from": "checkr"
+  },
+  {
+    "package": "flobr",
+    "url": "https://github.com/poissonconsulting/flobr",
+    "via": ["subfoldr2"],
+    "from": "subfoldr2"
   },
   {
     "package": "fwapgr",
