@@ -188,6 +188,12 @@
   {
     "package": "envirotox",
     "url": "https://github.com/poissonconsulting/envirotox",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
+  },
+  {
+    "package": "envirotox",
+    "url": "https://github.com/poissonconsulting/envirotox",
     "via": ["ssdtests"],
     "from": "ssdtests"
   },
@@ -456,10 +462,41 @@
     "from": "tmbr"
   },
   {
+    "package": "shinyssdtools",
+    "url": "https://github.com/poissonconsulting/shinyssdtools",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
+  },
+  {
+    "package": "ssddata",
+    "url": "https://github.com/open-AIMS/ssddata",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
+  },
+  {
+    "package": "ssdsims",
+    "url": "https://github.com/poissonconsulting/ssdsims",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
+  },
+  {
+    "package": "ssdtests",
+    "url": "https://github.com/poissonconsulting/ssdtests",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
+  },
+  {
     "package": "ssdtools",
     "url": "https://github.com/bcgov/ssdtools",
     "via": ["shinywqbench", "wqbench"],
     "from": "shinywqbench"
+  },
+  {
+    "package": "ssdtools",
+    "url": "https://github.com/poissonconsulting/ssdtools",
+    "via": ["ssdsuite", "ssdtests"],
+    "branch": "dev",
+    "from": "ssdsuite"
   },
   {
     "package": "ssdtools",
@@ -473,6 +510,12 @@
     "url": "https://github.com/bcgov/ssdtools",
     "via": ["wqbench"],
     "from": "wqbench"
+  },
+  {
+    "package": "ssdvignettes",
+    "url": "https://github.com/poissonconsulting/ssdvignettes",
+    "via": ["ssdsuite"],
+    "from": "ssdsuite"
   },
   {
     "package": "timer",
