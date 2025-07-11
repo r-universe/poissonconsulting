@@ -202,6 +202,9 @@
 [submodule "subfoldr2"]
 	path = subfoldr2
 	url = https://github.com/poissonconsulting/subfoldr2
+[submodule "subreport"]
+	path = subreport
+	url = https://github.com/poissonconsulting/subreport
 [submodule "term"]
 	path = term
 	url = https://github.com/poissonconsulting/term
