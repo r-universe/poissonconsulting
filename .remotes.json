@@ -499,7 +499,7 @@
   },
   {
     "package": "shinyssdtools",
-    "url": "https://github.com/poissonconsulting/shinyssdtools",
+    "url": "https://github.com/bcgov/shinyssdtools",
     "via": ["ssdsuite"],
     "from": "ssdsuite"
   },
