@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/poissonconsulting/poissonconsulting.r-universe.dev
 	branch = HEAD
+[submodule "CmdStanR"]
+	path = CmdStanR
+	url = stan-dev/cmdstanr
 [submodule "batchr"]
 	path = batchr
 	url = https://github.com/poissonconsulting/batchr
