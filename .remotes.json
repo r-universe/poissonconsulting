@@ -146,6 +146,12 @@
   {
     "package": "chktemplate",
     "url": "https://github.com/poissonconsulting/chktemplate",
+    "via": ["ssdsuite", "shinywqbench", "wqbench"],
+    "from": "ssdsuite"
+  },
+  {
+    "package": "chktemplate",
+    "url": "https://github.com/poissonconsulting/chktemplate",
     "via": ["wqbench"],
     "from": "wqbench"
   },
@@ -504,6 +510,13 @@
     "from": "ssdsuite"
   },
   {
+    "package": "shinywqbench",
+    "url": "https://github.com/poissonconsulting/shinywqbench",
+    "via": ["ssdsuite"],
+    "branch": "dev",
+    "from": "ssdsuite"
+  },
+  {
     "package": "ssddata",
     "url": "https://github.com/open-AIMS/ssddata",
     "via": ["ssdsuite"],
@@ -529,9 +542,8 @@
   },
   {
     "package": "ssdtools",
-    "url": "https://github.com/poissonconsulting/ssdtools",
-    "via": ["ssdsuite", "ssdtests"],
-    "branch": "dev",
+    "url": "https://github.com/bcgov/ssdtools",
+    "via": ["ssdsuite", "shinywqbench", "wqbench"],
     "from": "ssdsuite"
   },
   {
@@ -596,10 +608,22 @@
     "from": "shinywqbench"
   },
   {
+    "package": "wqbench",
+    "url": "https://github.com/bcgov/wqbench",
+    "via": ["ssdsuite", "shinywqbench"],
+    "from": "ssdsuite"
+  },
+  {
     "package": "wqbenchdata",
     "url": "https://github.com/bcgov/wqbenchdata",
     "via": ["shinywqbench", "wqbench"],
     "from": "shinywqbench"
+  },
+  {
+    "package": "wqbenchdata",
+    "url": "https://github.com/bcgov/wqbenchdata",
+    "via": ["ssdsuite", "shinywqbench", "wqbench"],
+    "from": "ssdsuite"
   },
   {
     "package": "wqbenchdata",
