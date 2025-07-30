@@ -201,7 +201,6 @@
 [submodule "ssdvignettes"]
 	path = ssdvignettes
 	url = https://github.com/poissonconsulting/ssdvignettes
-	registered = false
 [submodule "subfoldr2"]
 	path = subfoldr2
 	url = https://github.com/poissonconsulting/subfoldr2
