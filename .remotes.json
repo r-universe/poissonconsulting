@@ -523,6 +523,12 @@
     "from": "ssdsuite"
   },
   {
+    "package": "ssddata",
+    "url": "https://github.com/open-AIMS/ssddata",
+    "via": ["ssdtests"],
+    "from": "ssdtests"
+  },
+  {
     "package": "ssdsims",
     "url": "https://github.com/poissonconsulting/ssdsims",
     "via": ["ssdsuite"],
