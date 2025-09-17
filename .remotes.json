@@ -246,6 +246,12 @@
     "from": "fwatlasbc"
   },
   {
+    "package": "gsdd",
+    "url": "https://github.com/poissonconsulting/gsdd",
+    "via": ["evrfish"],
+    "from": "evrfish"
+  },
+  {
     "package": "jmbr",
     "url": "https://github.com/poissonconsulting/jmbr",
     "via": ["embr"],
