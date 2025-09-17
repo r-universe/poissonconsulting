@@ -76,6 +76,9 @@
 [submodule "err"]
 	path = err
 	url = https://github.com/poissonconsulting/err
+[submodule "evrfish"]
+	path = evrfish
+	url = https://github.com/poissonconsulting/evrfish
 [submodule "extras"]
 	path = extras
 	url = https://github.com/poissonconsulting/extras
