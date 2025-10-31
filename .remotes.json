@@ -554,6 +554,13 @@
   },
   {
     "package": "ssdtools",
+    "url": "https://github.com/poissonconsulting/ssdtools",
+    "via": ["ssdsims"],
+    "branch": "dev",
+    "from": "ssdsims"
+  },
+  {
+    "package": "ssdtools",
     "url": "https://github.com/bcgov/ssdtools",
     "via": ["ssdsuite", "shinywqbench", "wqbench"],
     "from": "ssdsuite"
