@@ -541,6 +541,12 @@
     "from": "ssdsuite"
   },
   {
+    "package": "ssdsims",
+    "url": "https://github.com/poissonconsulting/ssdsims",
+    "via": ["ssdtests"],
+    "from": "ssdtests"
+  },
+  {
     "package": "ssdtests",
     "url": "https://github.com/poissonconsulting/ssdtests",
     "via": ["ssdsuite"],
@@ -568,7 +574,7 @@
   {
     "package": "ssdtools",
     "url": "https://github.com/poissonconsulting/ssdtools",
-    "via": ["ssdtests"],
+    "via": ["ssdtests", "ssdsims"],
     "branch": "dev",
     "from": "ssdtests"
   },
