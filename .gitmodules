@@ -29,38 +29,18 @@
 [submodule "bboutools"]
 	path = bboutools
 	url = https://github.com/poissonconsulting/bboutools
-[submodule "canwqdata"]
-	path = canwqdata
-	url = https://github.com/bcgov/canwqdata
-	registered = false
 [submodule "checkr"]
 	path = checkr
 	url = https://github.com/poissonconsulting/checkr
 [submodule "chk"]
 	path = chk
 	url = https://github.com/poissonconsulting/chk
-[submodule "chktemplate"]
-	path = chktemplate
-	url = https://github.com/poissonconsulting/chktemplate
-	registered = false
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	registered = false
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip
-[submodule "crancache"]
-	path = crancache
-	url = https://github.com/r-lib/crancache
-	registered = false
 [submodule "curtisquadata"]
 	path = curtisquadata
 	url = https://github.com/poissonconsulting/curtisquadata
-[submodule "daff"]
-	path = daff
-	url = https://github.com/edwindj/daff
-	registered = false
 [submodule "dbflobr"]
 	path = dbflobr
 	url = https://github.com/poissonconsulting/dbflobr
@@ -142,14 +122,6 @@
 [submodule "readwritesqlite"]
 	path = readwritesqlite
 	url = https://github.com/poissonconsulting/readwritesqlite
-[submodule "remotes"]
-	path = remotes
-	url = https://github.com/r-lib/remotes
-	registered = false
-[submodule "rems"]
-	path = rems
-	url = https://github.com/bcgov/rems
-	registered = false
 [submodule "rescale"]
 	path = rescale
 	url = https://github.com/poissonconsulting/rescale
