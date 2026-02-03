@@ -47,6 +47,9 @@
 [submodule "dttr2"]
 	path = dttr2
 	url = https://github.com/poissonconsulting/dttr2
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/poissonconsulting/duckdb/duckdb-r
 [submodule "embr"]
 	path = embr
 	url = https://github.com/poissonconsulting/embr
