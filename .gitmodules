@@ -188,6 +188,9 @@
 [submodule "term"]
 	path = term
 	url = https://github.com/poissonconsulting/term
+[submodule "tibblify"]
+	path = tibblify
+	url = https://github.com/wranglezone/tibblify
 [submodule "tidyplus"]
 	path = tidyplus
 	url = https://github.com/poissonconsulting/tidyplus
