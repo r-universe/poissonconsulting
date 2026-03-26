@@ -161,6 +161,9 @@
 [submodule "smbr"]
 	path = smbr
 	url = https://github.com/poissonconsulting/smbr
+[submodule "smbr2"]
+	path = smbr2
+	url = https://github.com/poissonconsulting/smbr2
 [submodule "ssddata"]
 	path = ssddata
 	url = https://github.com/open-AIMS/ssddata
