@@ -131,6 +131,9 @@
 [submodule "revdepcheck"]
 	path = revdepcheck
 	url = https://github.com/r-lib/revdepcheck
+[submodule "rjags"]
+	path = rjags
+	url = https://github.com/jags/rjags
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/r-lib/roxygen2
