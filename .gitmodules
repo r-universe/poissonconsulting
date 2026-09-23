@@ -134,6 +134,7 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/jags/rjags
+	branch = release-4_patched
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/r-lib/roxygen2
