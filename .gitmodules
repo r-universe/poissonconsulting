@@ -89,6 +89,9 @@
 [submodule "jmbr"]
 	path = jmbr
 	url = https://github.com/poissonconsulting/jmbr
+[submodule "kelpbio"]
+	path = kelpbio
+	url = https://github.com/HakaiInstitute/kelpbio
 [submodule "klexdatr"]
 	path = klexdatr
 	url = https://github.com/poissonconsulting/klexdatr
