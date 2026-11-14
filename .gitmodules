@@ -80,6 +80,9 @@
 [submodule "fwatlasbc"]
 	path = fwatlasbc
 	url = https://github.com/poissonconsulting/fwatlasbc
+[submodule "gratia"]
+	path = gratia
+	url = https://github.com/gavinsimpson/gratia
 [submodule "gsdd"]
 	path = gsdd
 	url = https://github.com/poissonconsulting/gsdd
